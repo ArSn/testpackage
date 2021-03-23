@@ -1,0 +1,13 @@
+{
+    "name": "powwow/logger",
+    "description": "Powwow Logger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArSn",
+            "email": "koljaz@web.de"
+        }
+    ],
+    "require": {}
+}
